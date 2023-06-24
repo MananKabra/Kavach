@@ -8,7 +8,7 @@ import 'package:hack7/pages/signupPage/signUpAuthorization.dart';
 import 'package:hack7/pages/signupPage/signupPage.dart';
 import 'package:provider/provider.dart';
 
-
+//Hellooooooooooooooooooooooooooooooo no kavach :(
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   final cameras = await availableCameras();
